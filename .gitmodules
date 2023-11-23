@@ -16,3 +16,15 @@
 [submodule "2021-2/folk-engine"]
 	path = 2021-2/folk-engine
 	url = https://github.com/zerujio/folk-engine
+[submodule "2022-1/qdu-engine"]
+	path = 2022-1/qdu-engine
+	url = https://github.com/alec280/qdu-engine
+[submodule "2022-1/JourneyEngine"]
+	path = 2022-1/JourneyEngine
+	url = https://github.com/sebastianolmos/JourneyEngine
+[submodule "2022-1/uwu-engine"]
+	path = 2022-1/uwu-engine
+	url = https://github.com/Gago31/uwu-engine
+[submodule "2022-1/BoomBoomEngine"]
+	path = 2022-1/BoomBoomEngine
+	url = https://github.com/HanPollo/BoomBoomEngine
