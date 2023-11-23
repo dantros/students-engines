@@ -1,0 +1,18 @@
+[submodule "2021-2/AcesEngine"]
+	path = 2021-2/AcesEngine
+	url = https://github.com/diegoHurtadoG/AcesEngine
+[submodule "2021-2/CraftEngine"]
+	path = 2021-2/CraftEngine
+	url = https://github.com/FelipeOrtuzar/CraftEngine
+[submodule "2021-2/FlukyEngine"]
+	path = 2021-2/FlukyEngine
+	url = https://github.com/LukasGL/FlukyEngine
+[submodule "2021-2/alpha_engine"]
+	path = 2021-2/alpha_engine
+	url = https://github.com/AlphaSteam/alpha_engine
+[submodule "2021-2/caveEngine"]
+	path = 2021-2/caveEngine
+	url = https://github.com/agumatt/caveEngine
+[submodule "2021-2/folk-engine"]
+	path = 2021-2/folk-engine
+	url = https://github.com/zerujio/folk-engine
